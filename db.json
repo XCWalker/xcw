@@ -69,5 +69,8 @@
 	"description": "GG",
 	"completed": "0"
 }
-]
+],
+  "placeholder": {
+    "name": "placeholder"
+  }
 }
