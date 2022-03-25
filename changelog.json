@@ -1,12 +1,14 @@
 [
   {
-    "title": "false",
-    "description": "Lorem Ipsum",
-    "version": {
-      "1": 0,
-      "2": 4,
-      "3": 1
-    },
+    "title": "I see the changes now",
+    "description": "With the latest version of the XCWalker Intranet Prototype, I've added a section dedicated to showing the latest changes noted on the GitHub",
+    "version": "0.4.2",
     "date": "2022-03-25T17:17:10.018Z"
+  },
+  {
+    "title": "Search Is Here, and It's getting better.",
+    "description": "With the latest version of the XCWalker Intranet Prototype, I've now added a semi-functional search (it currently only searches the tasks)",
+    "version": "0.4.1",
+    "date": "2022-03-23T21:17:10.018Z"
   }
 ]
