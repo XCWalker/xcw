@@ -6,9 +6,75 @@
     "date": "2022-03-25T17:17:10.018Z"
   },
   {
-    "title": "Search Is Here, and It's getting better.",
-    "description": "With the latest version of the XCWalker Intranet Prototype, I've now added a semi-functional search (it currently only searches the tasks)",
+    "title": "What is a mouse?",
+    "description": "With the latest version of the XCWalker Intranet Prototype, I've now added an ability to add 'Tag:(Catagory)' to your search and limit them without hitting the dedicated buttons (Secret features to follow?)",
+    "version": "0.4.3",
+    "date": "2022-03-24T21:22:12.018Z"
+  },
+  {
+    "title": "Search Is Here, and It's getting better",
+    "description": "With the latest version of the XCWalker Intranet Prototype, I've now added a semi-functional search (it currently only searches the tasks).",
+    "version": "0.4.2",
+    "date": "2022-03-24T21:21:40.018Z"
+  },
+  {
+    "title": "There can only be one",
+    "description": "With the latest version of the XCWalker Intranet Prototype, I've added the ability to limit the results with the catagories",
     "version": "0.4.1",
-    "date": "2022-03-24T21:17:10.018Z"
+    "date": "2022-03-24T21:10:10.018Z"
+  },
+  {
+    "title": "I'm gunna catagorise my life",
+    "description": "With the latest version of the XCWalker Intranet Prototype, I've updated the search menu with sections for each catagory of search material.",
+    "version": "0.4.0",
+    "date": "2022-03-24T21:20:40.018Z"
+  },
+  {
+    "title": "I hope my Nan isn't navigating",
+    "description": "With the latest version of the XCWalker Intranet Prototype, I've added a basic Navigation menu (These take you to the homepage sections).",
+    "version": "0.3.0",
+    "date": "2022-02-19T21:19:50.018Z"
+  },
+  {
+    "title": "I speak freely",
+    "description": "With the latest version of the XCWalker Intranet Prototype, I've designed a basic UI for a messenger.",
+    "version": "0.2.1",
+    "date": "2022-02-18T21:22:50.018Z"
+  },
+  {
+    "title": "Somewhere for my feet",
+    "description": "With the latest version of the XCWalker Intranet Prototype, I've added a basic footer concept (Not sure what to put in it).",
+    "version": "0.2.0",
+    "date": "2022-02-18T21:17:01.018Z"
+  },
+  {
+    "title": "A search to come",
+    "description": "With the latest version of the XCWalker Intranet Prototype, I've designed the first iteration of the search system.",
+    "version": "0.1.0",
+    "date": "2022-02-17T21:18:19.018Z"
+  },
+  {
+    "title": "Time together",
+    "description": "With the latest version of the XCWalker Intranet Prototype, I've designed a basic calendar UI (Suggestion Welcome).",
+    "version": "0.0.3",
+    "date": "2022-02-17T21:20:25.018Z"
+  },
+  {
+    "title": "Getting stuff done",
+    "description": "With the latest version of the XCWalker Intranet Prototype, I've designed the task UI.",
+    "version": "0.0.2",
+    "date": "2022-02-17T21:18:50.018Z"
+  },
+  {
+    "title": "Time to surf the tube",
+    "description": "With the latest version of the XCWalker Intranet Prototype, I've designed the UI for the YouTube intergration (Too be added at a later date).",
+    "version": "0.0.1",
+    "date": "2022-02-16T21:16:08.018Z"
+  },
+  {
+    "title": "A design I see",
+    "description": "With the latest version of the XCWalker Intranet Prototype, I've designed the initail for the Intranet.",
+    "version": "0.0.0",
+    "date": "2022-02-16T21:18:51.018Z"
   }
 ]
