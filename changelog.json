@@ -1,10 +1,12 @@
-{
-  "title": "false",
-  "description": "Lorem Ipsum",
-  "version": {
-    "1": 0,
-    "2": 4,
-    "3": 1
-  },
-  "date": "2022-03-25T17:17:10.018Z"
-}
+[
+  {
+    "title": "false",
+    "description": "Lorem Ipsum",
+    "version": {
+      "1": 0,
+      "2": 4,
+      "3": 1
+    },
+    "date": "2022-03-25T17:17:10.018Z"
+  }
+]
