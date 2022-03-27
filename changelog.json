@@ -1,5 +1,11 @@
 [
   {
+    "title": "It's time to work in space",
+    "description": "With the latest version of the XCWalker Intranet Prototype, I've added a carousel for the Google Workspace links (They do not currently work, but will shortly).",
+    "version": "0.6.1",
+    "date": "2022-03-27T17:25:31.234Z"
+  },
+  {
     "title": "All I do is Google",
     "description": "With the latest version of the XCWalker Intranet Prototype, I've added a function google search feature, simpliy click the first auto complete and whatever the search google will open.",
     "version": "0.6.0",
