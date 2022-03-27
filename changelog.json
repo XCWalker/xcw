@@ -1,5 +1,11 @@
 [
   {
+    "title": "I'd like to escape now",
+    "description": "With the latest version of the XCWalker Intranet Prototype, I've added the ability to exit out of the menus with the escape key (might be the most important yet).",
+    "version": "0.6.2",
+    "date": "2022-03-27T20:05:18.362Z"
+  },
+  {
     "title": "It's time to work in space",
     "description": "With the latest version of the XCWalker Intranet Prototype, I've added a carousel for the Google Workspace links (They do not currently work, but will shortly).",
     "version": "0.6.1",
