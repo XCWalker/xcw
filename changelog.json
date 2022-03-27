@@ -1,5 +1,11 @@
 [
   {
+    "title": "What's the time Mr. Wolf?",
+    "description": "With the latest version of the XCWalker Intranet Prototype, I've added the first 'Secret' feature of the search menu, using the 'tag:time' you can now get the time is every format supported by Javascript.",
+    "version": "0.6.3",
+    "date": "2022-03-27T20:39:32.994Z"
+  },
+  {
     "title": "I'd like to escape now",
     "description": "With the latest version of the XCWalker Intranet Prototype, I've added the ability to exit out of the menus with the escape key (might be the most important yet).",
     "version": "0.6.2",
