@@ -1,5 +1,11 @@
 [
   {
+    "title": "Searching space",
+    "description": "With the latest version of the XCWalker Intranet Prototype, I've added the second 'Secret' feature of the search menu, using the 'tag:googleworkspace' you can now get every Google Workspace site, and the buttons now direct to the sites (both the search menu and the page section)",
+    "version": "0.6.4",
+    "date": "2022-03-28T19:43:10.403Z"
+  },
+  {
     "title": "What's the time Mr. Wolf?",
     "description": "With the latest version of the XCWalker Intranet Prototype, I've added the first 'Secret' feature of the search menu, using the 'tag:time' you can now get the time is every format supported by Javascript.",
     "version": "0.6.3",
