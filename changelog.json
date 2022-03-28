@@ -1,5 +1,11 @@
 [
   {
+    "title": "Who Am I?",
+    "description": "With the latest version of the XCWalker Intranet Prototype, I've added the first part of the footer, my socials, simply click on the button and you will be taken to my socail on the respective platform",
+    "version": "0.6.5",
+    "date": "2022-03-28T20:28:10.246Z"
+  },
+  {
     "title": "Searching space",
     "description": "With the latest version of the XCWalker Intranet Prototype, I've added the second 'Secret' feature of the search menu, using the 'tag:googleworkspace' you can now get every Google Workspace site, and the buttons now direct to the sites (both the search menu and the page section)",
     "version": "0.6.4",
