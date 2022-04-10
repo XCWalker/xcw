@@ -1,5 +1,11 @@
 [
   {
+    "title": "Spacal Redesign",
+    "description": "With the latest version of the XCWalker Intranet Prototype, I've created a new default background image, and added a secret feature with this image.",
+    "version": "0.6.6",
+    "date": "2022-04-10T18:29:28.723Z"
+  },
+  {
     "title": "Who Am I?",
     "description": "With the latest version of the XCWalker Intranet Prototype, I've added the first part of the footer, my socials, simply click on the button and you will be taken to my socail on the respective platform",
     "version": "0.6.5",
