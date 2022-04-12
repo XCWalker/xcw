@@ -1,5 +1,11 @@
 [
   {
+    "title": "Will the conferences ever end?",
+    "description": "With the latest version of the XCWalker Intranet Prototype, I've created a new UI system for video chats, more features for the video chat to come soon.",
+    "version": "0.7.0",
+    "date": "2022-04-12T15:49:08.548Z"
+  },
+  {
     "title": "Spacal Redesign",
     "description": "With the latest version of the XCWalker Intranet Prototype, I've created a new default background image, and added a secret feature with this image.",
     "version": "0.6.6",
