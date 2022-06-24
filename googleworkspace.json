@@ -88,10 +88,5 @@
     "title": "Google News",
     "svg_url": "https://uploads-ssl.webflow.com/60bcfa79f82df9d620d6820a/62b579658165e983e1f256dd_Google%20News.svg",
     "redirect_url": "https://news.google.com"
-  },
-  {
-    "title": "Google Chat",
-    "svg_url": "https://uploads-ssl.webflow.com/60bcfa79f82df9d620d6820a/60be73bae045c65ebe8a4654_Google%20Chat.svg",
-    "redirect_url": "https://chat.google.com"
   }
 ]
